@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-zoo/static/css/main.6f62a1f3.css",
+    "main.js": "/test-zoo/static/js/main.d2bc5787.js",
+    "index.html": "/test-zoo/index.html",
+    "main.6f62a1f3.css.map": "/test-zoo/static/css/main.6f62a1f3.css.map",
+    "main.d2bc5787.js.map": "/test-zoo/static/js/main.d2bc5787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f62a1f3.css",
+    "static/js/main.d2bc5787.js"
+  ]
+}
