@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  width: 1000px;
+  margin: 0 auto;
+}
+.zoo-container {
+  text-align: start;
+}
+.btn-create {
+  padding: 10px 55px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgb(0, 118, 41);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+.btn-create:active {
+  box-shadow: 0px 0px 3px 1px rgb(0, 74, 26);
+}
+.zoo-container h1 {
+  margin-bottom: 20px;
+}
